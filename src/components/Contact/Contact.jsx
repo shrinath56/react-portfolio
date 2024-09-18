@@ -5,26 +5,28 @@ import { getImageUrl } from "../../utils";
 
 export const Contact = () => {
   return (
-    <footer id="contact" className={styles.container}>
+    <footer id='contact' className={styles.container}>
       <div className={styles.text}>
         <h2>Contact</h2>
         <p>Feel free to reach out!</p>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:myemail@email.com">myemail@email.com</a>
+          <img src={getImageUrl("contact/emailIcon.png")} alt='Email icon' />
+          <a href='mailto:shrinath0156@gmail.com'>shrinath0156@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
-            alt="LinkedIn icon"
+            alt='LinkedIn icon'
           />
-          <a href="https://www.linkedin.com/myname">linkedin.com/myname</a>
+          <a href='https://www.linkedin.com/shrinath-suryawanshi'>
+            linkedin.com/shrinath-suryawanshi
+          </a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://www.github.com/myname">github.com/myname</a>
+          <img src={getImageUrl("contact/githubIcon.png")} alt='Github icon' />
+          <a href='https://www.github.com/shrinath56'>github.com/shrinath56</a>
         </li>
       </ul>
     </footer>

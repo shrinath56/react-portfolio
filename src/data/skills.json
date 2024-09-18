@@ -1,5 +1,9 @@
 [
   {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -8,8 +12,20 @@
     "imageSrc": "skills/css.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Material-UI",
+    "imageSrc": "skills/mui.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
   },
   {
     "title": "Node",
@@ -20,11 +36,11 @@
     "imageSrc": "skills/graphql.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "SAPUI5",
+    "imageSrc": "skills/sap.png"
   }
 ]

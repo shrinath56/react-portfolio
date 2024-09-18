@@ -1,26 +1,35 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "ECommerce",
+    "imageSrc": "projects/ecommerce.png",
+    "skills": ["React", "Redux"],
+    "demo": "https://react-ecommerce-seven-wheat.vercel.app/",
+    "source": "https://github.com/shrinath56/react-ecommerce"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "skills": ["React", "Vite"],
+    "demo": "/",
+    "source": "https://github.com/shrinath56/react-portfolio"
   },
   {
-    "title": "Project C",
+    "title": "Instagram Clone",
+    "imageSrc": "projects/instagram-clone.png",
+    "skills": ["React"],
+    "source": "https://github.com/shrinath56/instagram-clone-react"
+  },
+  {
+    "title": "Youtube Player",
+    "imageSrc": "projects/youtube.png",
+    "skills": ["React"],
+    "source": "https://github.com/shrinath56/youtube-player"
+  },
+  {
+    "title": "Small React Projects",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["React"],
+    "source": "https://github.com/shrinath56/React-Projects/"
   }
 ]
+
